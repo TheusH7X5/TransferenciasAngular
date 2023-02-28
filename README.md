@@ -1,7 +1,7 @@
 # Bytebank
 
-#projeto de extrato e transferencia feito em angular 
-#precisa instalar JSON Server - https://github.com/typicode/json-server
+# projeto de extrato e transferencia feito em angular 
+# precisa instalar JSON Server - https://github.com/typicode/json-server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
